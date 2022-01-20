@@ -13,3 +13,4 @@ def isprime(m, n):
       print(i)
 
 isprime(m, n)
+print("finish")
